@@ -1,12 +1,13 @@
 
 
-<img align="center" alt="img" src="./img/banner.png" />
+<img align="center" height="20%" alt="img" src="./img/banner.png" />
 
 ## 
 
-<img align="right" style="" width="350" alt="img" src="./img/encarnac.jpeg" />
+<img align="right" style="" width="32%" alt="img" src="./img/encarnac.jpeg" />
 
 ### ⚡️ Stuff About Me
+- 
 - 👩🏻‍💻 I'm currently working on [yums-for-buns](https://github.com/encarnac/yums-for-buns)
 - 🧠 I'm currently learning **Next.js**  
 - 🎨 I enjoy working on creative projects involving design
@@ -37,11 +38,13 @@
 - 📝 Download my [resume](resume.pdf)
 
 
-### 🚀 GitHub Stats
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=encarnac&theme=material-palenight&card_width=400" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+##
+<p align="center"><a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=encarnac&theme=material-palenight&hide=issues,contribs&show=prs_merged_percentage&show_icons=true" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=encarnac&theme=material-palenight&card_width=400" />
+</a>
+
 </p>
