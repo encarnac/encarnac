@@ -2,10 +2,10 @@
 # 👋🐰 Hi, I'm Colene!
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=encarnac&theme=material-palenight&card_width=400&border_radius=10" />
+  <img height=150 align="center" src="https://streak-stats.demolab.com/?user=encarnac&theme=material-palenight&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=encarnac&theme=material-palenight&hide=stars,issues,contribs&show=prs_merged_percentage&show_icons=true&border_radius=10" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=encarnac&theme=material-palenight&hide=stars,issues,contribs&show=prs_merged_percentage&show_icons=true&hide_title=false" />
 </a>
 </p>
 
