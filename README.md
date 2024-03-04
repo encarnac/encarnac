@@ -17,7 +17,8 @@
 - 💻 I'm currently working on [yums-for-buns](https://github.com/encarnac/yums-for-buns)
 - 🧠 I'm currently learning **Next.js**  
 - 💪 I've been reading a lot and lifting a lot
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🛠️ Tools I Use
 
