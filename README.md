@@ -19,6 +19,11 @@
 - 💪 I've been reading a lot and lifting a lot
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🛠️ Tools I Use
