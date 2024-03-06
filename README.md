@@ -1,5 +1,5 @@
 
-# 👋🐰 Hi, I'm Colene!
+# 👋 Hi, I'm Colene! Welcome to my GitHub 🤓
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://streak-stats.demolab.com/?user=encarnac&theme=material-palenight&card_width=400" />
@@ -8,6 +8,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=encarnac&theme=material-palenight&hide=stars,issues,contribs&show=prs_merged_percentage&show_icons=true&hide_title=false" />
 </a>
 </p>
+
 
 ## 👩🏻‍💻 Stuff About Me
 > I'm a **software developer** specializing in **front-end** technologies, dabbling in full-stack development and UI/UX design. My journey as a developer officially started in 2021 when I started my second Bachelors degree in Computer Science, after originally graduating as a Psychology major. My favorite area in tech is where creativity, problem solving, and human behavior intersect - which is why I love working with front-end technology!
@@ -18,17 +19,8 @@
 - 🧠 I'm currently learning **Next.js**  
 - 💪 I've been reading a lot and lifting a lot
 
-<!--START_SECTION:waka-->
 
-```txt
-YAML         8 mins          ███████████████▒░░░░░░░░░   61.95 %
-JavaScript   5 mins          █████████▓░░░░░░░░░░░░░░░   38.05 %
-```
-
-<!--END_SECTION:waka-->
-
-## 🛠️ Tools I Use
-
+## 🛠️ Tools and Technology
 <table>
   <tr>
     <td align="center" width="80">
@@ -78,6 +70,15 @@ JavaScript   5 mins          █████████▓░░░░░░░
   </tr>
 </table>
 
+
+<!--START_SECTION:waka-->
+
+```txt
+YAML         8 mins          ███████████████▒░░░░░░░░░   61.95 %
+JavaScript   5 mins          █████████▓░░░░░░░░░░░░░░░   38.05 %
+```
+
+<!--END_SECTION:waka-->
 
 ## 💬 Get In Touch
 - 📬 Message me via [email](mailto:coleneencarnado@gmail.com)
