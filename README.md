@@ -15,8 +15,8 @@
 
 ### ⚡️ Recent Activities
 - 🔍 I am on the lookout for new opportunities!
-- 💻 I'm currently working on [yums-for-buns](https://github.com/encarnac/yums-for-buns)
-- 🧠 I'm currently learning **Next.js**  
+- 💻 I'm currently working on [/mattarazi](https://github.com/encarnac/mattarazi)
+- 🧠 I'm currently learning **Next.js** and headless CMS like **Strapi**
 - 💪 I've been reading a lot and lifting a lot
 
 
