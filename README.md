@@ -74,13 +74,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 03 January 2025
+From: 05 December 2024 - To: 04 January 2025
 
-Total Time: 1 hr 10 mins
+Total Time: 0 secs
 
-JSON     47 mins         █████████████████░░░░░░░░   68.20 %
-Python   21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
